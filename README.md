@@ -1,2 +1,2 @@
 # Snitap
-Projeto Snitap com HTML, CSS no curso da Rocketseat.
+Projeto Snitap feito com HTML, CSS no curso da Rocketseat.
